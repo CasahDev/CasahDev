@@ -1,16 +1,32 @@
-### Hi there 👋
+# Introduction
+<img src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif" heigth="50px">
 
-<!--
-**Casahkstan/Casahkstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me?
 
-Here are some ideas to get you started:
+```js
+module.exports = {
+  real_name: 'Sacha',
+  years_old: 16,
+  hobbies: [
+    'games',
+    'music',
+    'food',
+    'programming'
+  ],
+  location: 'Dijon, France',
+  langages: [
+    'java',
+    'c++',
+    'javascript (node.js)'
+  ]
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const casah__ = require('./casah__');
+console.log(Casahkstan
+```
+
+## Statistics
+![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Casahkstan&show_icons=true&theme=buefy)
+
+# How to contact me?
+- [x] Discord: Casah__#5010
