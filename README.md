@@ -22,11 +22,11 @@ module.exports = {
 };
 
 const casah__ = require('./casah__');
-console.log(Casahkstan
+console.log(Casahkstan)
 ```
 
 ## Statistics
 ![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Casahkstan&show_icons=true&theme=buefy)
 
 # How to contact me?
-- [x] Discord: Casah__#5010
+* Discord: Casah__#5010
