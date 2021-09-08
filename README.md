@@ -21,7 +21,7 @@ module.exports = {
   ]
 };
 
-const casah__ = require('./casah__');
+const casah__ = require('./Casahkstan');
 console.log(Casahkstan)
 ```
 
