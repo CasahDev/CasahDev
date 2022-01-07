@@ -15,9 +15,7 @@ module.exports = {
   ],
   location: 'Dijon, France',
   langages: [
-    'java',
-    'c++',
-    'javascript (node.js)'
+    'C#'
   ]
 };
 
