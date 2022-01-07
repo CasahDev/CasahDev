@@ -20,7 +20,7 @@ public void Casahkstan() {
         "C#"
     };
 
-    const casah__ = Require(". /Casahkstan. cs");
+    const casah__ = Require(". /Casahkstan.cs");
     Console.WriteLine(Casah__);
 }
 ```
