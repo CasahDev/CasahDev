@@ -3,24 +3,26 @@
 
 ## About me?
 
-```js
-module.exports = {
-  real_name: 'Sacha',
-  years_old: 16,
-  hobbies: [
-    'games',
-    'music',
-    'food',
-    'programming'
-  ],
-  location: 'Dijon, France',
-  langages: [
-    'C#'
-  ]
-};
+```cs
+public void Casahkstan() {
+    const string real_name = "Sacha";
+    years_old = 16;
+	
+    List<string> hobbies = new List<string>() ;
+    hobbies.Add("Music");
+    hobbies.Add("Games");
+    hobbies.Add("Food");
+    hobbies.Add("Programming");
 
-const casah__ = require('./Casahkstan');
-console.log(Casahkstan)
+    string[] location = {"Dijon", "France" };
+
+    string[] languages = {
+        "C#"
+    };
+
+    const casah__ = Require(". /Casahkstan. cs");
+    Console.WriteLine(Casah__);
+}
 ```
 
 ## Statistics
