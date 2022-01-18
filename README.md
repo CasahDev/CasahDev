@@ -18,6 +18,7 @@ public void Casahkstan() {
 
     string[] languages = {
         "C#"
+	"Java"
     };
 
     const casah__ = Require(". /Casahkstan.cs");
