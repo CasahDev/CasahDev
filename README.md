@@ -6,7 +6,7 @@
 ```cs
 public void Casahkstan() {
     const string real_name = "Sacha";
-    years_old = 16;
+    int years_old = 16;
 	
     List<string> hobbies = new List<string>() ;
     hobbies.Add("Music");
