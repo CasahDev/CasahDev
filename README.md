@@ -3,26 +3,32 @@
 
 ## About me?
 
-```cs
-public void Casahkstan() {
-    const string real_name = "Sacha";
-    int years_old = 16;
-	
-    List<string> hobbies = new List<string>() ;
-    hobbies.Add("Music");
-    hobbies.Add("Games");
-    hobbies.Add("Food");
-    hobbies.Add("Programming");
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
-    string[] location = {"Dijon", "France" };
+using namespace std;
 
-    string[] languages = {
-        "C#"
-	"Java"
-    };
+void Casah__() {
+	const string real_name = "Sacha";
+	int years_old = 16;
 
-    const casah__ = Require(". /Casahkstan.cs");
-    Console.WriteLine(Casah__);
+	vector<string> hobbies{
+		"Music",
+		"Games",
+		"Food",
+		"Programming"
+	};
+
+	string location = "France";
+
+	string languages[] = {
+		"C++",
+		"Java"
+	};
+
+	cout << "👋" << endl;
 }
 ```
 
