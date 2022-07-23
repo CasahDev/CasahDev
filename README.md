@@ -8,8 +8,6 @@
 #include <string>
 #include <vector>
 
-using namespace std;
-
 void Casah__() {
 	const string real_name = "Sacha";
 	int years_old = 16;
@@ -25,10 +23,11 @@ void Casah__() {
 
 	string languages[] = {
 		"C++",
-		"Java"
+		"JS",
+		"Python"
 	};
 
-	cout << "👋" << endl;
+	std::cout << "👋" << std::endl;
 }
 ```
 
