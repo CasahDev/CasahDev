@@ -35,4 +35,4 @@ void Casah__() {
 ![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Casahkstan&show_icons=true&theme=buefy)
 
 # How to contact me?
-* Discord: ``Casah__#5010``
+* Discord: ``Casahxd``
