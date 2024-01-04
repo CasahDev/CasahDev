@@ -9,14 +9,15 @@
 #include <vector>
 
 void Casah__() {
-	const string real_name = "Sacha";
-	int years_old = 17;
+	const string REAL_NAME = "Sacha";
+	int years_old = 18;
 
 	vector<string> hobbies{
 		"Music",
 		"Games",
 		"Food",
-		"Programming"
+		"Programming",
+		"Football"
 	};
 
 	string location = "France";
@@ -24,15 +25,17 @@ void Casah__() {
 	string languages[] = {
 		"C++",
 		"JS",
-		"Python"
+		"Python",
+		"C#",
+		"Pascal"
 	};
 
-	std::cout << "👋" << std::endl;
+	printf("👋");
 }
 ```
 
 ## Statistics
-![Pseudow's github stats](https://github-readme-stats.vercel.app/api?username=Casahkstan&show_icons=true&theme=buefy)
+![Casahkstan's Stats](https://github-readme-stats.vercel.app/api?username=Casahkstan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 # How to contact me?
 * Discord: ``Casahxd``
