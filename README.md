@@ -35,7 +35,7 @@ void Casah__() {
 ```
 
 ## Statistics
-![Casahkstan's Stats](https://github-readme-stats.vercel.app/api?username=Casahkstan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Sacha Laurent's Stats](https://github-readme-stats.vercel.app/api?username=CasahDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 # How to contact me?
 * Discord: ``Casahxd``
