@@ -39,3 +39,4 @@ void Casah__() {
 
 # How to contact me?
 * Discord: ``Casahxd``
+* Mail: ``sacha.laurent@iut-dijon.u-bourgogne.fr``
