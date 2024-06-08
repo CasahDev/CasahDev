@@ -27,7 +27,7 @@ void Casah__() {
 		"JS",
 		"Python",
 		"C#",
-		"Pascal"
+		"Java"
 	};
 
 	printf("👋");
