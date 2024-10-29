@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://media.giphy.com/media/9lyuDkgZJ4OBO/giphy.gif" heigth="50px">
-📚 Student at IUT de Dijon (France)<br>🔭 Looking for an engineering school in computer science<br>📱 Working on a mobile app
+📚 Student at IUT de Dijon (France)<br>🔭 Looking for an engineering school in computer science<br>📱 Working on a mobile app<br>⚽ Football goalkeeper
 
 
 ## 🌐 Socials:
