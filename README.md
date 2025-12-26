@@ -1,5 +1,4 @@
 # 💫About Me :
-![Totoro](https://camo.githubusercontent.com/b4befa59eb52065d4dc3eb1e4a80e620a8da4ffdd526bab1056f55f1b6e88d47/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f396c7975446b675a4a344f424f2f67697068792e676966)
 
 📚 Student at Polytech Dijon (France)
 
