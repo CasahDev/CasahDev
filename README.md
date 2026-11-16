@@ -1,6 +1,8 @@
 # 💫About Me :
 
-📚 Student at Polytech Dijon (France)
+📚 Student at Polytech Dijon (France) in software engineering
+
+💀 Chall maker
 
 📱 Working on a Minitel
 
